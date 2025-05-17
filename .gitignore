@@ -1,5 +1,8 @@
 *.pyc
 .vscode
+.zshrc
+data
+logs
 output
 build
 diff_rasterization/diff_rast.egg-info
